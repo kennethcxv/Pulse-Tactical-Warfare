@@ -17,7 +17,7 @@ This repository contains a teaser of Pulse-Tactical Warface, offering a glimpse 
 ## Getting Started
 To explore the teaser:
 
-- Clone the Repository: Clone this repository to your local machine using git clone https://github.com/kennethcxv/Pulse-Tactical-Warfare.
+- Clone the Repository: Clone this repository to your local machine using ```git clone https://github.com/kennethcxv/Pulse-Tactical-Warfare```
 - Explore the Content: Navigate through the files to explore concept art, design documents, and snippets of the game.
 - Stay Updated: Keep an eye on this repository for updates, announcements, and additional content.
 
